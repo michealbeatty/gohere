@@ -9,12 +9,9 @@ import (
 	"github.com/michealbeatty/gohere/here"
 )
 
-// TODO: Move credentials into main.go
 // APP_ID and APP_CODE are the Here credentials
-const appID = "RnwaSxSwyjzn1JM7URVE"
-const appCode = "hgdIOwJ-gi4ZxgNskBFsOg"
-
-//const gen = "9"
+const appID = ""
+const appCode = ""
 
 func main() {
 	var lat float64
